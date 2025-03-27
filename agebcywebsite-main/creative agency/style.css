@@ -25,7 +25,7 @@
     width: 100%;
     background-color: #8416f1;
 }
-/* HEADER STYLE */
+
 header{
     width: 100%;
     padding: 50px;
@@ -82,9 +82,7 @@ header .contact_us::after{
     background-image: url('Images/contact-arrow.png');
     background-repeat: no-repeat;
 }
-/* HEADER STYLE  END */
 
-/* HERO SECTION STYLE  */
 .hero_section{
     width: 100%;
     display: flex;
@@ -169,9 +167,7 @@ header .contact_us::after{
    background-color: #ffffff;
    background-position: center;
 }
-/* HERO SECTION STYLE END */
 
-/* MARQUE TAG SECTION */
 .marquee-tag-section{
     width: 100%;
     overflow: hidden;
@@ -205,9 +201,7 @@ header .contact_us::after{
     height: 100px;
     background-image: url('Images/Star.png');
 }
-/* MARQUE TAG SECTION COMPLETED */
 
-/* ABOUT US SECTION STYLE */
 .about_us{
     width: 100%;
     padding: 130px 70px;
@@ -301,9 +295,7 @@ header .contact_us::after{
     height: 340px;
     transition: .9s ease-in-out;
 }
-/* ABOUT US SECTION STYLE END */
 
-/* OUR SERVICES SECTION */
 .service_container{
     width: 100%;
     background-color: #8416f1;
@@ -393,9 +385,7 @@ header .contact_us::after{
     border: 1px solid #353535;
     background-image: url('Images/contact-arrow.png');
 }
-/* OUR SERVICES SECTION COMPLETED */
 
-/* OUR PROJECT SECTION */
 .our_projects{
     width: 100%;
     padding: 100px;
@@ -458,9 +448,7 @@ header .contact_us::after{
     grid-template-columns: repeat(2, 1fr);
     gap: 25px;
 }
-/* OUR PROJECT SECTION COMPLETED */
 
-/* TESTIMONIAL SECTION */
 .testimonial{
     width: 100%;
     background-color: #171717;
@@ -543,9 +531,7 @@ header .contact_us::after{
     align-items: start;
     flex-direction: column;
 }
-/* TESTIMOANIAL SECTION COMPLETED */
 
-/* FOOTER SECTION */
 footer{
     width: 100%;
     background-color: #8416f1;
@@ -644,4 +630,3 @@ footer p{
     align-items: center;
     gap: 20px;
 }
-/* FOOTER SECTION COMPLETED */
